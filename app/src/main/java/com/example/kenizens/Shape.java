@@ -1,2 +1,7 @@
-package com.example.kenizens;public class Shape {
+package com.example.kenizens;
+
+public abstract class Shape {
+
+    private int x;
+    private int y;
 }
