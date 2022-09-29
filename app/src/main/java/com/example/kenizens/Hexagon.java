@@ -22,4 +22,5 @@ public class Hexagon {
     public void setSideLength(float sideLength) {
         this.sideLength = sideLength;
     }
+
 }
