@@ -1,6 +1,6 @@
 package com.example.kenizens;
 
-public class Hexagon {
+public class Hexagon extends Shape {
     private float sideLength;
 
     public Hexagon (float sideLength) {
